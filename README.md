@@ -1,1 +1,1 @@
-"2 exercises for K-mean" 
+2 exercises for K-mean, without using Machine Learning libraries. 
